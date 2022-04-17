@@ -5,5 +5,4 @@
 - 📫 How to reach me nhsuseno@yahoo.com
 
 
-![snake gif]
-(https://github.com/Nazarius1/Nazarius1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Nazarius1/Nazarius1/blob/output/github-contribution-grid-snake.gif)
