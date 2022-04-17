@@ -6,4 +6,4 @@
 
 
 ![snake gif]
-https://github.com/Nazarius1/Nazarius1/blob/output/github-contribution-grid-snake.gif
+(https://github.com/Nazarius1/Nazarius1/blob/output/github-contribution-grid-snake.gif)
