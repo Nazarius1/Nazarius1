@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nazarius1
 - 👀 I’m interested in Full Stack Machine Learning
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science and Automation
+- 💞️ I’m looking to collaborate on Machine Learning and Automation
 - 📫 How to reach me nhsuseno@yahoo.com
 
 
